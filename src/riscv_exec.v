@@ -1,23 +1,4 @@
 //////////////////////////////////////////////////////////////////////////////////
-//////////////////////////////////////////////////////////////////////////////////
-// Company: iitb
-// Engineer: lynn conway
-// 
-// Create Date: 07.02.2025 21:56:12
-// Design Name: riscv_exec
-// Module Name: riscv_exec
-// Project Name: risc_v_processor
-// Target Devices: pynq z2
-// Tool Versions: na
-// Description: does execution
-// 
-// Dependencies: on everyone
-// 
-// Revision: a few
-// Revision 0.01 - File Created
-// Additional Comments: good luck to us
-// 
-//////////////////////////////////////////////////////////////////////////////////
 // ALU Operations
 `include "riscv_def.v"
 //`include "../../../riscv_alu.v"
