@@ -1,8 +1,6 @@
 `timescale 1ns / 1ps
 `include "riscv_def.v"
 
-// Group - Decode - Algorithm Avengers
-
 module riscv_decode (
     // Clock and Reset
     input  wire         clk_i,                    // Clock signal
